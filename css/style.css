@@ -47,3 +47,7 @@
   width: 20%;
   background-color: red;
 }
+
+#sidebar ul {
+  list-style-type: none;
+}
