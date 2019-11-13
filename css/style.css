@@ -19,3 +19,9 @@
 #main-navbar li {
   float: left;
 }
+
+#main-navbar a {
+  float: left;
+  color: #fff;
+}
+  
