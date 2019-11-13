@@ -4,6 +4,7 @@
   float: left;
   width: 100%;
   position: relative;
+  left: 50%;
 }
 
 #main-navbar ul {
