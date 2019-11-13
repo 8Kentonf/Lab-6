@@ -5,9 +5,13 @@
   width: 100%;
   position: relative;
 }
-#main-navbar ul {
+#navbar-container ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   position: relative;
+}
+
+#main-navbar li {
+  
 }
