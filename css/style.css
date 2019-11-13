@@ -58,3 +58,8 @@
   
 }
 
+#sidebar a {
+  display: block;
+  padding: 15px 0;
+  
+}
