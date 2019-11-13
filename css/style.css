@@ -28,6 +28,7 @@
 }
 
 #main-navbar a:hover {
+  float: left;
   background-color: #000;
   text-decoration: underline overline;
-  
+}
