@@ -39,3 +39,9 @@
   background-color: #000;
   display: block;
 }
+
+#sidebar {
+  position: fixed;
+  right: 0%;
+  
+}
