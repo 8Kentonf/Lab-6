@@ -62,5 +62,8 @@
   display: block;
   padding: 15px 0;
   color: #fff;
+}
+
+#sidebar a:hover {
   background-color: #000;
 }
